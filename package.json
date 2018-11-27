@@ -1,0 +1,14 @@
+{
+  "name": "npm-project-generator",
+  "version": "1.0.0",
+  "description": "Generate valid NPM projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Roe",
+  "license": "MIT",
+  "dependencies": {
+    "number-to-words": "^1.2.4"
+  }
+}
